@@ -1,5 +1,5 @@
-## Hey there, good to meet you!
-Designing purposeful digital products, one thoughtful interaction at a time. 👋
+## Hey there, good to meet you!👋
+Designing purposeful digital products, one thoughtful interaction at a time.
 
 <!--
 **shafiatulferdous/shafiatulferdous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
